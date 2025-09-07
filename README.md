@@ -11,7 +11,7 @@ _I’m a Python developer passionate about crafting AI-driven tools that inspire
 
 
 ## 🚀 My Favorite Projects
----
+
 - 🕰️ [**ChronoScribe-Agent**](https://github.com/HarshitaThota/ChronoScribe-Agent)  
   *Simulates alternate histories and narrates futures by answering “what if.”*
 
@@ -24,7 +24,6 @@ _I’m a Python developer passionate about crafting AI-driven tools that inspire
 
 
 ## 📬 Connect With Me:
---- 
 
 - LinkedIn: [linkedin.com/in/harshitathota](https://www.linkedin.com/in/harshita-thota-933a021b5/)
 
