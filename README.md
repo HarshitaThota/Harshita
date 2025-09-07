@@ -8,9 +8,10 @@ _I’m a Python developer passionate about crafting AI-driven tools that inspire
  
 
 
----
 
-### 🚀 My Favorite Projects
+
+## 🚀 My Favorite Projects
+---
 - 🕰️ [**ChronoScribe-Agent**](https://github.com/HarshitaThota/ChronoScribe-Agent)  
   *Simulates alternate histories and narrates futures by answering “what if.”*
 
@@ -20,9 +21,10 @@ _I’m a Python developer passionate about crafting AI-driven tools that inspire
 - 😊 [**Mood-Tracker**](https://github.com/HarshitaThota/Mood-Tracker)  
   *A daily mood logging app with simple analytics and tracking.*  
 
---- 
 
-### 📬 Connect With Me:
+
+## 📬 Connect With Me:
+--- 
 
 - LinkedIn: [linkedin.com/in/harshitathota](https://www.linkedin.com/in/harshita-thota-933a021b5/)
 
