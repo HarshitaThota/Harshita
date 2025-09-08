@@ -13,7 +13,7 @@ _I’m a Python developer passionate about crafting AI-driven tools that inspire
 ## 🚀 My Favorite Projects
 
 - 🕰️ [**ChronoScribe-Agent**](https://github.com/HarshitaThota/ChronoScribe-Agent)  
-  *Simulates alternate histories and narrates futures by answering “what if.”*
+  *Agentic alternate history simulator narrating futures by answering “what if.”*
 
 - 📖 [**ArjunaAI**](https://github.com/HarshitaThota/ArjunaAI)  
   *AI-powered companion exploring Bhagavad Gita verses through retrieval-augmented generation.*
