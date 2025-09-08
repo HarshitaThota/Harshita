@@ -11,7 +11,9 @@ _I’m a Python developer passionate about crafting AI-driven tools that inspire
 
 
 ## 🚀 My Favorite Projects
-
+- 🌙 [**Oneironet**](https://github.com/HarshitaThota/Oneironet-AI)  
+  *AI dream interpreter where multiple agentic lenses (Jungian, Vedic, Surrealist, Astrologer) explore and explain your dreams.*
+  
 - 🕰️ [**ChronoScribe-Agent**](https://github.com/HarshitaThota/ChronoScribe-Agent)  
   *Agentic alternate history simulator narrating futures by answering “what if.”*
 
